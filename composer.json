@@ -1,5 +1,5 @@
 {
-    "name": "noaman/laravel-clickatell",
+    "name": "bigbharatjain/laravel-clickatell",
     "keywords": ["clickatell","laravel", "laravel-clickatell","sms-laravel"],
     "description": "This package makes it easy to send sms using clickatell.com with Laravel 5.",
     "license": "MIT",
