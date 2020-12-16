@@ -1,12 +1,12 @@
 {
-    "name": "bigbharatjain/laravel-clickatell",
+    "name": "noaman/laravel-clickatell",
     "keywords": ["clickatell","laravel", "laravel-clickatell","sms-laravel"],
     "description": "This package makes it easy to send sms using clickatell.com with Laravel 5.",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bharat Jain",
-            "email": "bharat.jain325@gmail.com"
+            "name": "Noaman Ahmed",
+            "email": "noamanahmd@gmail.com"
         }
     ],
     "autoload": {
